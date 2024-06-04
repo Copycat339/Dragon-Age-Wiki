@@ -1,0 +1,57 @@
+---
+layout: layout-post.njk
+title: Solas
+description: Solas es un elfo mago apóstata y compañero en Dragon Age
+tags: ["blog", "libros"]
+
+---
+
+# {{"Solas"}}
+
+<div>
+  <img src="/img/Solas.png" width="200" height="auto"/ alt="Eleventy">
+</div>
+
+Solas es un elfo mago apóstata y compañero en Dragon Age: Inquisition. Destaca por ser un experto en el Velo. Es uno de los ocho romances posibles, solo disponible para Inquisidoras elfas.
+
+#### Trasfondo
+
+Solas creció en un pequeño pueblo. Antes de los acontecimientos de Inquisition, Solas pasó la mayor parte de su vida vagando por tierras inhóspitas y aunque sus orejas puntiagudas le identifican como elfo, él no reconoce ser ni dalishano ni elfo de ciudad.
+
+Solas no ha tenido contacto con el Círculo ni con tutores dalishianos (aunque sí con algunos clanes). A pesar de ello, aprendió a dominar las artes mágicas. Tiene un gran interés por el Velo, y le hace más feliz soñar en antiguas ruinas y aprender todo lo que puede sobre lo que hay más allá del Velo, que involucrase en la guerra Mago-Templaria.
+
+Cuando no está en el campo de batalla junto al Inquisidor, prefiere la tranquilidad de su propia compañía. A pesar de que puede ser considerado como un simple apóstata por el Círculo de Hechiceros, Solas es capaz de hacer uso de una magia peculiar, como entrar en una especie de sueño lúcido para explorar la historia de las zonas donde el Velo es más delgado o la manipulación de las grietas del Velo de una forma única gracias a su profundo conocimiento del Velo. Por lo tanto, es más abierto de mente en lo concerniente al Velo que la mayoría de habitantes de Thedas a los que, por el contrario, la Capilla ha enseñado a temer cualquier cosa relacionada con los espíritus.
+
+Fundamentalmente, Solas cree en la ley de causa y efecto, en la sabiduría como su propia recompensa y en el derecho inherente a la existencia de toda persona con voluntad propia. Solas piensa que los conflictos actuales en Thedas (magos contra templarios, elfos contra humanos, espíritus contra demonios), son el resultado de estrictas divisiones implantadas con anterioridad que han sido la causa de las múltiples tragedias que han ido sucediendo hasta el presente.
+
+A pesar de que ha intentado conectar con algunos colectivos (especialmente con los elfos dalishanos hacia los cuales se muestra escéptico) en el pasado para intentar enseñarles lo que ha aprendido del Velo, con frecuencia ha sido ridiculizado tanto por enemigos como por aliados y le consideran un mentiroso y un loco. Esto contribuye a asentar la impresión generalizada de que a Solas le dan igual los elfos, cuando en realidad él teme que no hay manera de ayudarles dadas las circunstancias y se ha cansado de no ser tenido en cuenta.
+
+De hecho, Solas alberga una visión comedida de la difícil situación de los elfos y se compadece de los que viven en las elferías, del mismo modo que se compadece de los miembros de cualquier raza que necesite ayuda. Se ve a sí mismo en un mundo en el que las personas se resignan a aferrarse a meros recuerdos porque carecen del poder para restaurar lo que se ha perdido. 
+
+Solas es conocido en Feudo Celestial como un hombre educado y sofisticado, cuya orientación hacia la misteriosa fortaleza pareció literalmente milagrosa. Solas proporcionó la información y las herramientas que la Inquisición requería, cuando más las necesitaba. Su conocimiento de la magia es inusual y extremadamente útil. A pesar de ser un elfo, Solas no habla ni suena como un elfo dalishano o de ciudad y no se identifica a sí mismo como miembro de ninguno de estos dos colectivos. Entre el personal de cocina de Feudo Celestial se comenta que come poco, pero que tiene requisitos peculiares sobre el té. También es extremadamente bueno jugando a la Gracia Perversa, al Diamondback y al ajedrez.
+
+#### Participacion
+
+**Dragon Age Inquisition** 
+Tras haber sido testigo de la creación de la Brecha, Solas busca y se une a la recién restaurada Inquisición, sabiendo que su destacable conocimiento sobre el Velo será de utilidad. Solas entró en el campamento de la Inquisición voluntariamente, rindiendo su apoyo a las fuerzas de la Capilla sin protestar. A Solas se le concedió permiso para estudiar una de las grietas del Velo más pequeñas y al único sobreviviente de la explosión del Cónclave de la Divina, con la esperanza de que encontrara una manera de sellar la Brecha y de ayudar al superviviente. Haciendo uso de magia curativa, Solas consiguió contrarrestar el crecimiento de la cicatriz en la mano del superviviente y salvarle la vida.
+
+Poco después de la apertura de la Brecha, encontramos a Solas cerca del Templo de las Cenizas Sagradas luchando contra demonios junto a Varric Tethras y algunos soldados. Solas ayuda al Inquisidor a sellar una grieta pequeña y luego continúan hasta el propio templo, donde sellan una más grande. Solas teoriza que posiblemente cerrar grietas estabiliza la Brecha. Después de que el Inquisidor tome la decisión de reclutar a los magos o a los templarios, Solas le ayuda a cerrar la propia Brecha. Antes del primer encuentro con Solas, él ya había ayudado al Inquisidor; mientras este se encontraba inconsciente, Solas le atendió usando magia curativa y sales menores para restaurar su salud.
+
+Se puede activar la misión Medir el velo hablando con él en Refugio yendo a la zona donde se encuentra el primer artefacto, sin embargo solo ganaremos puntos de aprobación si se habla con él antes de ir al lugar de la misión.
+
+Tras la destrucción de la base de la Inquisicion en Refugio, Solas le explica al Inquisidor que el orbe que porta el Antiguo (Corifeus) es de origen élfico, uno de los focos que los antiguos elfos utilizaban para canalizar su poder. Le preocupa que si el origen del orbe se revela esto pueda acarrear consecuencias negativas para su pueblo (los elfos). Casi milagrosamente, Solas guía al Inquisidor y a los supervivientes del ataque a Refugio hacia Feudo Celestial, una fortaleza en las montañas de Espalda Helada que la Inquisición utilizará como nueva sede.
+
+Más tarde, Solas le pide ayuda al Inquisidor para rescatar a una amiga: un espíritu de la sabiduría atraído al mundo físico en contra de su voluntad por unos magos. Esta será la misión personal de Solas, conocida como Todo nuevo pero deslucido para ella. Al encontrar al espíritu en las Llanuras Exaltadas, se descubre que los magos que lo invocaron habían corrompido su naturaleza para protegerse de unos bandidos, transformándolo así en un demonio del orgullo.
+Si se destruyen los pilares que mantienen al demonio atado, este volverá a recuperar su forma humanoide femenina. Cuando el espíritu muere, Solas desata su ira contra los magos. El Inquisidor podrá apaciguarle o dejar que Solas los mate. Después de esto Solas dejará el grupo y volverá solo a Feudo Celestial.
+
+Si se decide llevar a Solas a Halamshiral, le presentarán como el "sirviente elfo del Inquisidor". Más tarde, si se habla con él, comentará que le encanta la "embriagadora mezcla de poder, intriga, peligro y sexo" que es el Juego y la corte orlesiana.
+
+Durante la misión Aquí yace el abismo a Solas le fascina el hecho de encontrarse físicamente en el Velo. En el Templo de Mythal, Solas y el Guardián del Templo Abelas explicarán la historia de la caída de Elvhenan, así como el verdadero origen de la vallaslin.
+
+Cuando el Inquisidor finalmente derrota a Corifeus, Solas lamenta la destrucción del orbe como la pérdida de un artefacto élfico más. Después de la derrota de Corifeus y de la destrucción del orbe, Solas abandona la Inquisición. Los agentes de Leliana son incapaces de localizarle, no obstante, ella tiene la intención de continuar buscándole.
+
+En una escena post créditos, Solas se reúne con Flemeth, quien se dirige a él como "Lobo Terrible", y como "viejo amigo". Solas le dice que él permitió que el orbe cayera en manos de los Venatori con el fin de que Corifeus pudiera desbloquear su verdadero poder, algo que no pudo lograr por su cuenta, ya que era demasiado débil después de despertar de su largo letargo
+Solas parece arrepentido por sus acciones y reconoce que merece ser castigado. Aunque él mismo afirma que "debe pagar el precio", también especifica que no puede hacerlo todavía puesto que el Pueblo aún le necesita. En la misma conversación, se disculpa ante Flemeth y ella le abraza y le responde con otra disculpa por su parte. Después de estas palabras, Solas parece influir en Flemeth de alguna manera y su cuerpo comienza a emitir rayos de luz. Flemeth se desploma en los brazos de Solas, petrificada y pálida. Cuando Solas levanta la cabeza, sus ojos brillan con la misma luz que emanaba el cuerpo de Flemeth
+
+
+![GitHub](/img/da-logo.png)

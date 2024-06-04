@@ -3,26 +3,26 @@ document.addEventListener('DOMContentLoaded', function () {
   const suggestions = document.getElementById('suggestions');
 
   const items = [
-    { name: 'Alanegra', link: 'https://rjddd.github.io/YUGIOHWIKI/alanegra/' },
-    { name: 'Aliado de la justicia', link: 'https://rjddd.github.io/YUGIOHWIKI/aliado-de-la-justicia/' },
-    { name: 'Amazoness', link: 'https://rjddd.github.io/YUGIOHWIKI/amazoness/' },
-    { name: 'Artistamigo', link: 'https://rjddd.github.io/YUGIOHWIKI/artistamigo/' },
-    { name: 'Brillo Negro', link: 'https://rjddd.github.io/YUGIOHWIKI/brillo-negro/' },
-    { name: 'Buster Blader', link: 'https://rjddd.github.io/YUGIOHWIKI/buster-blader/' },
-    { name: 'Cuidadores de tumbas', link: 'https://rjddd.github.io/YUGIOHWIKI/cuidadores-de-tumbas/' },
-    { name: 'Dragon Blanco', link: 'https://rjddd.github.io/YUGIOHWIKI/dragon-blanco/' },
-    { name: 'Dragon del Trueno', link: 'https://rjddd.github.io/YUGIOHWIKI/dragon-del-trueno/' },
-    { name: 'Dragon Negro', link: 'https://rjddd.github.io/YUGIOHWIKI/dragon-negro/' },
-    { name: 'Guerrero Magnetico', link: 'https://rjddd.github.io/YUGIOHWIKI/guerrero-magnetico/' },
-    { name: 'Harpies', link: 'https://rjddd.github.io/YUGIOHWIKI/harpies/' },
-    { name: 'Heroes Elementales', link: 'https://rjddd.github.io/YUGIOHWIKI/heroes-elementales/' },
-    { name: 'Hieratico', link: 'https://rjddd.github.io/YUGIOHWIKI/hieratico/' },
-    { name: 'Lunaluz', link: 'https://rjddd.github.io/YUGIOHWIKI/lunaluz/' },
-    { name: 'Mago Negro', link: 'https://rjddd.github.io/YUGIOHWIKI/mago-negro/' },
-    { name: 'Mekk Caballero', link: 'https://rjddd.github.io/YUGIOHWIKI/mekk-caballero/' },
-    { name: 'Naturia', link: 'https://rjddd.github.io/YUGIOHWIKI/naturia/' },
-    { name: 'Ninja', link: 'https://rjddd.github.io/YUGIOHWIKI/ninja/' },
-    { name: 'Toon', link: 'https://rjddd.github.io/YUGIOHWIKI/toon/' }
+    { name: 'Alistair', link: '/Alistair'},
+    { name: 'Andraste', link: '/Andraste' },
+    { name: 'Anora', link: '/Anora' },
+    { name: 'Cailan', link: '/Cailan' },
+    { name: 'Cassandra', link: '/Cassandra' },
+    { name: 'El Hacedor', link: '/El-Hacedor' },
+    { name: 'Flemeth', link: '/Flemeth' },
+    { name: 'Florianne', link: '/Florianne' },
+    { name: 'Hawke', link: '/Hawke' },
+    { name: 'Isabela', link: '/Isabela' },
+    { name: 'Leliana', link: '/Leliana' },
+    { name: 'Loghain', link: '/Loghain' },
+    { name: 'Meredith', link: '/Meredith' },
+    { name: 'Merrill', link: '/Merrill' },
+    { name: 'Morrigan', link: '/Morrigan' },
+    { name: 'Sera', link: '/Sera' },
+    { name: 'Solas', link: '/Solas' },
+    { name: 'The Inquisitor', link: '/The-Inquisitor' },
+    { name: 'The Warden', link: '/The-Warden' },
+    { name: 'Varric', link: '/Varric' }
     // Agrega más elementos aquí
   ];
 

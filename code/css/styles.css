@@ -9,23 +9,23 @@ body {
   padding: 1rem;
   max-width: 800px;
   min-height: 100vh;
-  border: medium solid #96f1ff;
+  border: medium solid #000000;
   text-align: center;
   font-family: system-ui, sans-serif;
-  background-color: #302f6a;
-  background: url("../img/Fondo.png");
+  background-color: #000000;
+  background: url("../img/No.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  color: aliceblue;
+  color: rgb(0, 0, 0);
 }
 h1,h2,h3{
-  color: aquamarine;
+  color: rgb(0, 0, 0);
 }
 
 a {
-  color: #79fffd;
+  color: #000000;
   transition: all 0.3s ease-out;
 
   &:hover {
@@ -56,9 +56,9 @@ li {
 
 .menu {
   width: 100%;
-  max-width: 480px;
+  max-width: 4800px;
   margin: 0 auto;
-  border: thin solid rgb(255, 230, 0);
+  border: thin solid rgb(0, 0, 0);
 
   ul {
     margin: 0;

@@ -1,0 +1,69 @@
+---
+layout: layout-post.njk
+title: Anora
+description: "Nuestra gente nos ha concedido el regalo de la libertad, no debemos malgastarlo"
+tags: ["blog", "libros"]
+---
+
+# {{ "Anora" }}
+
+<div>
+  <img src="/img/Anora.jpg" width="200" height="auto"/ alt="Eleventy">
+</div>
+
+Anora Theirin (Mac Tir de soltera) es la esposa del Rey Cailan Theirin, posteriormente viuda, y de Alistair Theirin dependiendo de las decisiones del jugador durante Dragon Age Origins. Es la hija de Loghain Mac Tir y la Reina de Ferelden, que destaca por ser una gobernante regia, respetada y querida por su pueblo y que se preocupa por la seguridad económica de Ferelden.
+
+#### Trasfondo
+
+Anora es hija del Teryn de Gwaren, Loghain Mac Tir, y su esposa, Celia. Como sus padres comparten un origen humilde, los sectores más reaccionarios de la nobleza no están de acuerdo con que una "campesina" se encargue de la gestión de Ferelden, aunque ello no ha impedido que se convierta en una buena gobernante.
+
+Su padre comenzó a llevarla a la corte real alrededor del año 9:10 del Dragón, puesto que pasaba mucho tiempo fuera de Gwaren, y allí conoció y fue posteriormente prometida al príncipe Cailan Theirin. Ya desde su infancia Anora comenzó a mostrar ciertas características y actitudes que definirían su personalidad hasta la edad adulta. Era dominante y manipuladora para hacer cumplir sus deseos, se negaba a jugar con otros niños y, en su lugar, llevaba a su prometido como si fuera su perrito faldero. Anora era una niña encantadora, muy inteligente e independiente.
+
+Con el tiempo, Anora contrajo matrimonio con Cailan. Aunque ambos eran amigos desde la niñez, tal como lo habían sido sus padres, lo cierto es que su enlace fue más por conveniencia que por amor. Sin embargo, su amistad evolucionó al amor, aunque eso no impidió que Anora pensara que su marido era un idiota. Adorable y encantador, pero un idiota. Por ello, Anora asumió los deberes del reinado que su marido aborrecía y reinó Ferelden en la sombra. Durante los cinco años que duró su matrimonio, Anora no fue capaz de darle a Cailan y a Ferelden un heredero al trono, lo cual propagó los rumores sobre su infertilidad.
+
+Anora mantiene con su padre una relación muy estrecha, ya que para ella él es un modelo de conducta y alguien que la conoce como nadie en el mundo. La admiración que siente por su padre es la razón por la que no siente sorpresa por otras cosas o personas, puesto que todas fallan al intentar alcanzar el listón que dejó su padre.
+
+#### Apariciones y Desarrollo
+
+**Dragon Age: Origins**
+
+Anora siente profundamente la pérdida de su marido Cailan en la Batalla de Ostagar, aunque ello no impida que se eche atrás y no intervenga, al menos en un principio, cuando su padre se proclama regente de Ferelden. Continúa ejerciendo como gobernadora y no deja de lado sus deberes, y es de ahí de donde surgen las primeras discrepancias con su padre. Con el paso del tiempo Anora comienza a sospechar que Loghain es el responsable de la muerte de Cailan Theirin, por lo que acaba enfrentándose a él en alguna ocasión.
+
+Poco después de la llegada del/a Guarda y el Arl Eamon de Risco Rojo a Denerim, el Arl Rendon Howe, segundo teniente de Loghain, acusa a Anora de traición y la encierra en una habitación de su propia finca. La reina envía en secreto a su sirvienta, Erlina, en busca del Arl Eamon y el/la Guarda para explicarles la situación. Posteriormente, el/la Guarda acude a la finca de Howe para rescatar a Anora y llevarla a la hacienda del Arl Eamon, desde donde comienza a luchar contra su padre. Sugiere investigar la Elfería en Denerim, ya que sospecha que Loghain pueda estar detrás de las revueltas que allí tienen lugar.
+
+Antes de la Gran Asamblea, Anora comienza a negociar con el/la Guarda respecto al futuro de Ferelden. Anora ofrece su apoyo al/a Guarda si él/ella le devuelve el favor manteniendo su posición en el trono, y existen varias opciones sobre ello:
+
+Si Anora se mantiene como reina:
+
+En efecto, Anora cumple con su parte del trato y presta todo su apoyo al Guarda durante la Asamblea que tiene lugar en Denerim, esperando que él/ella haga lo mismo. El/La Guarda la apoya para que se mantenga en el trono.
+
+Su primer acto como reina oficial de Ferelden es nombrar al/a Guarda comandante de las Fuerzas Fereldenas. Hace acto de presencia en la Batalla de Denerim, arengando a las tropas antes del ataque de los engendros tenebrosos.
+
+Durante la Gran Asamblea es posible que Loghain muera ejecutado, ante lo que Anora protesta fervientemente, aunque no tiene éxito, y en esta situación ordena construir un monumento a su padre para que sea recordado como el Héroe del Río Dane. Durante el prólogo de Dragon Age: Origins se comenta que Anora va todos los años, sin excepción, a dejar flores en la estatua.
+
+Si Anora contrae matrimonio con Alistair:
+
+Anora no se muestra nada de acuerdo con la propuesta del/a Guarda, pero termina por ceder si es persuadida. Está de acuerdo con que tanto ella como Alistair gobiernen en situación de igualdad y que no se repita lo que sucedió con Cailan. Su compromiso se reconoce formalmente durante la Gran Asamblea, y tras la derrota de Urthemiel ambos son coronados y contraen matrimonio en la misma ceremonia. Aunque su matrimonio no los haga felices a ninguno de los dos, como pareja de gobernadores son muy amados y populares entre la gente.
+
+Si Anora contrae matrimonio con el Guarda:
+
+Si el Guarda pertenece al origen de humano noble y posee el apellido Cousland, puede imponer como condición a Anora para mostrarle su apoyo que se tenga que casar con él. La propuesta sorprende a Anora, que acepta. Es proclamada reina legítima de Ferelden en la Gran Asamblea, donde anuncia su compromiso con el Guarda y lo nombra Comandante de las Fuerzas Fereldenas. También está presente en la Batalla de Denerim, arengando a las tropas antes del ataque.
+
+Tras la derrota de Urthemiel, si el Guarda logra sobrevivir, Anora es coronada reina por la Gran Clériga Elemena. Nombra a su prometido Héroe de Ferelden y Príncipe Consorte de Ferelden. Contraen matrimonio seis meses después. Los rumores dicen que de no ser por sus reyertas por controlar el trono, la pareja otorgaría a Ferelden una era dorada.
+
+Si Anora es encerrada:
+
+Pueden ignorarse los esfuerzos de Anora por ser coronada reina y que el/a Guarda apoye, en su lugar, a Alistair Theirin para subir al trono. Pese a que había quien aseguraba que Anora era una amenaza y debía ser ejecutada, Alistair muestra clemencia y la encierra en una torre hasta saber qué hacer con ella. Anora es proclamada heredera de Alistair si éste llega a morir antes de finalizar la Quinta Ruina.
+
+**Dragon Age 2**
+
+Si Anora es reina:
+
+La Reina Anora ofrece sus puestos a cualquier oficial fereldano que huyera en la Quinta Ruina si vuelven a casa y se vuelven a alistar al ejército. Esto hace que veteranos como Aveline Vallen se piensen volver a Ferelden desde las Marcas Libres.
+
+**Dragon Age Inquisition:**
+
+Si Anora es reina o reina con Alistair:
+Durante la misión "En quedos susurros". Habiéndose hartado del abuso de los magos durante los eventos de Dragon Age: Inquisition, Anora (y Alistair, si están casados) aparecen en Risco Rojo con una pequeña armada para informar a los magos rebeldes que han excedido los límites de su acogida y que, por ello, son exiliados de Ferelden independientemente del trato que les ofrezca el/la Inquisidor/a.
+
+![Eleventy](/img/da-logo.png)

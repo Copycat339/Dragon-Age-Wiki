@@ -1,0 +1,75 @@
+---
+layout: layout-post.njk
+title: Merrill
+description: Merrill la elfa
+tags: ["blog", "libros"]
+
+---
+
+# {{"Merrill"}}
+
+<div>
+  <img src="/img/merrill.jpg" width="200" height="auto"/ alt="Eleventy">
+</div>
+
+Los Custodios Dalishanos son los maestros de las ancestrales costumbres rurales y los protectores de antiguos secretos. Merrill puede recitar todo lo que se puede saber sobre la historia de los elfos, pero tiene muy poca experiencia con el mundo o incluso con su propia gente. Ahora se encuentra en una tierra extranjera, rodeada por peligros por doquier. La misión de Merril es encontrar ayuda para su clan a cualquier precio.
+
+#### Trasfondo
+
+Merrill nació en el clan Alerion, que vagaba por las colinas de Nevarra . Como era la tercera hija del clan con magia, fue entregada al clan Sabrae para ser la primera del guardián Marethari en el próximo Arlathvhen, la reunión de los clanes dalishanos. Ella tenía sólo cuatro años en ese momento. 
+
+#### Intervención
+
+**Dragon Age Origins**
+
+Merrill es un miembro temporal del grupo en Dalish Elf Origin . Cuando Tamlen desaparece en las antiguas ruinas élficas , el Guardián le pide a Merrill que acompañe al Guardián para ayudarlo a encontrarlo. Marethari cree que la magia de Merrill y su conocimiento de la tradición élfica pueden ayudar en la búsqueda. Tamlen no puede recuperarse, pero Merrill no parece contraer la enfermedad que afecta a la elfa dalishana durante la búsqueda y continúa viviendo con el clan. Si se importa una partida guardada de Dragon Age: Origins con un Dalish Warden a Dragon Age II , Merrill expresará su malestar con los humanos desde que se llevaron a su amiga.
+
+Con una Ruina surgiendo en Ferelden, el clan Sabrae reservó un pasaje a través de las Marcas Libres en el Orgullo de Amaranthine , un barco que hizo varios viajes entre Ferelden y las Marcas Libres para transportar refugiados. Merrill le dice a Isabela que se mareó mucho durante el viaje. 
+
+**Dragon Age II**
+
+**Acto 1**
+Tras los acontecimientos que rodearon la desaparición de Tamlen , Merrill guardó un fragmento del Eluviano en las antiguas ruinas para limpiarlo de su contaminación. Estudió la historia del Eluvian y extrapoló información del fragmento. [4] Merrill le pide ayuda a Marethari para limpiar el fragmento de la contaminación, pero el Guardián se niega.
+
+Sus esfuerzos por construir un Eluvian, una combinación de su ardiente falta de habilidades interpersonales y su pragmatismo, la llevaron a recurrir a la magia de sangre , que había aprendido de Audacity , un demonio del orgullo aprisionado y separado del Velo en la cima de Sundermount . Como carecía de la cantidad necesaria de lirio para limpiar el fragmento con magia ordinaria, usó magia de sangre para amplificar su poder y poder tener éxito; Este hechizo parecía utilizarse en el origen dalishano para ayudar al Guardián a lidiar con la corrupción. Ella sostiene con Marethari que sus esfuerzos por aprender magia de sangre fueron necesarios para la restauración de los eluvianos y, en última instancia, la supervivencia de los dalishanos; Como el Guardián se opone públicamente a sus esfuerzos, el clan se vuelve contra ella.
+
+Cuando Hawke llega al campamento dalishano en Sundermount , participa en un ritual que Hawke realizará en un altar en la cima de una montaña. En el rito, Merrill recita la canción In Uthenera , un poema para los difuntos. El ritual implica la resurrección de Flemeth , ya que se revela que una parte de su esencia ha sido incrustada en el amuleto. Marethari le explica a Hawke que Merrill había decidido dejar su clan cada vez más hostil para aprender más sobre el mundo exterior y continuar sus estudios para restaurar el Eluviano. Inicialmente nervioso al llegar a Kirkwall , Merrill encuentra alojamiento en Alienage de la ciudad y se une al grupo de Hawke. Sin embargo, mientras permanece en Kirkwall, su uso de magia de sangre pone a Merrill en desacuerdo con Anders y Fenris .
+
+**Acto 2**
+Han pasado tres años desde que Hawke se unió al viaje a los Caminos Profundos , y Merrill busca la ayuda de Hawke para enfrentar a Marethari y solicitarle una daga especial que le ayude a completar el Eluvian. Mientras se enfrentan al Guardián, ella invoca el vir sulevanan , el derecho de cada dalishano a reclamar cualquier propiedad o artefacto del clan a cambio de un servicio. De mala gana, Marethari les pide que maten a un Varterral que había matado a muchos de sus cazadores, como trato por la daga. Mientras exploran la guarida de Varterral, se topan con Pol , quien huye asustado al ver a Merrill, directo al propio Varterral. Después de matar a Varterral y regresar al campamento, Merrill pregunta por qué Pol le tenía tanto miedo. Descubre que Marethari había advertido a su clan que podría recuperar la corrupción de los engendros tenebrosos. Marethari intenta utilizar esto para obligar a Merrill a abandonar su investigación sobre los eluvianos y regresar al clan; Merrill se niega rotundamente. Aunque Merrill cumple su parte del trato, el Guardián no lo hace y, en cambio, se lo entrega a Hawke para que lo guarde, dejando a Hawke con la opción de darle el Arulin'Holm a Merrill o negarle la herramienta.
+
+**Acto 3**
+Después de otros tres años desde la invasión de los Qunari, Merrill encuentra una alternativa para arreglar al todavía inactivo Eluvian, independientemente de si Hawke le dio el Arulin'Holm a Merrill o no. Ella planea volver a consultar a Audacity, quien le mencionó años antes que fue testigo de la creación del espejo durante los días de Arlathan. Le pide a Hawke que la acompañe a Sundermount, ya que está preocupada por la amenaza que pueda representar el demonio, particularmente porque ha guardado silencio en sus recientes intentos de comunicarse remotamente con él. Se descubre que Keeper liberó a Audacity de su prisión y contuvo al demonio dentro de ella, independientemente de si Hawke apoya el plan de Merrill o no. Marethari afirma que el demonio tenía la intención de utilizar el Eluvian como una salida de su prisión y que Merrill habría sido su primera víctima, pero nunca explica cómo llegó a esta conclusión.
+
+Como una abominación, Marethari ataca a Merrill y sus compañeros, obligándolos a matarla para sobrevivir. Mientras Merrill llora a Marethari, Hawke puede comentar sobre las acciones recientes del Guardián, incluyendo informar a Merrill que el Guardián "fue estúpido" al liberar a Audacity. Luego, el clan confrontará e interrogará a Hawke y Merrill sobre la desaparición del Guardián y finalmente descubrirá que ella está muerta. Si Hawke revela que el Guardián fue poseído por el demonio o advierte al clan que retroceda, atacarán y obligarán a Hawke y Merrill a matarlos para sobrevivir. Sin embargo, si Hawke culpa a Merrill por las acciones de Marethari, el clan sólo les pedirá que se vayan.
+
+De vuelta en Alienage, Merrill está aplastado. Si ella y Hawke son rivales, ella se lamenta de ser demasiado "estúpida e ignorante" para escuchar y luego destroza al Eluviano. Si están en términos amistosos, Merrill afirma que el clan y el Guardián no le hicieron caso cuando ella intentaba ayudarlos, a pesar de dedicar varios años de su vida a ayudar a poner fin a la difícil situación del Pueblo mediante la minuciosa restauración de la antigua tecnología élfica que puede haber revitalizado al Pueblo de su difícil situación. Consultará a Hawke sobre cuál debería ser su próximo curso de acción ya que el eluviano permanece inerte.
+
+Merrill suplica que Anders se salve después de que destruya la Capilla Kirkwall, y que ayude al grupo y compense su acto. Ella se une voluntariamente a Hawke en defensa de los magos . También puede quedarse con Hawke a pesar de ponerse del lado de los Templarios , si es completamente leal.
+
+De lo contrario, Merrill inicialmente se niega a ayudar a un Hawke pro-Templario si no se habla con ella después de un encuentro desagradable con su clan, y si Anders considera a Hawke un rival total. También se debe hablar con él después de cumplir con todas sus solicitudes para poder persuadirlo de que se vuelva contra los magos; su destino real es irrelevante.
+
+Más tarde, Hawke se encuentra con Merrill en el patio de Gallows. Si el Campeón le pide a Merrill que se reúna con ellos en este momento, puede convencerla; Hawke es la única persona con la que es muy cercana, un vínculo más fuerte que cualquiera que tenga con los magos del Círculo. En cambio, si Hawke no quiere a Merrill a su lado, ella se aleja para proteger a los magos del Círculo del Rito de Anulación y finalmente muere en combate después de sus últimas palabras con Hawke.
+
+Si Merrill sale triunfante con Hawke después de la batalla en la Horca, dejará al Campeón junto con los demás, por motivos personales, como afirma Varric .
+
+#### Trivialidades
+
+- Mary Kirby escribió Merrill para Dragon Age II . 
+- Según David Gaider , Eve Myles estaba última en la lista de "actores que pedí específicamente y obtuve en el primer intento".
+- Si le das a Merrill el Halla Carving comprado en la tienda del Maestro Ilen en el Acto 2, estará expuesto en la mesa junto a la puerta de su casa durante el resto del juego.
+- Aunque Marethari advierte a los miembros del clan Sabrae que Merrill puede recuperar la corrupción, ella permanece incorrupta en su manejo del fragmento durante varios años (después de limpiarlo con éxito de la contaminación con un hechizo amplificado por magia de sangre), mientras que los elfos en Witch Hunt que entró en contacto con los fragmentos restantes en las Ruinas Élficas se convirtió en demonios .
+- A pesar de afirmar que Audacity escaparía a través del Eluvian restaurado, Marethari nunca revela cómo llegó a esta conclusión, especialmente cuando su argumento en el Acto 2 contra este curso de acción fue completamente diferente. La revelación de Morrigan en Witch Hunt acerca de que los eluvianos sirven como puerta de entrada a un lugar "más allá de este mundo y más allá del Velo" pone en duda la validez de la afirmación de Marethari. En Dragon Age: Inquisition , Flemeth puede usar un Eluvian para llevarse a ella y a Kieran al Velo. También vale la pena señalar que Audacity está ligada a un tótem en el mundo físico y no en el Velo.
+- A pesar de su magia de sangre, Merrill parece haber sido tomada bajo las alas de varios de sus nuevos amigos:
+- Varric la llama "Daisy" afectuosamente y se dice repetidamente que sobornó a posibles atacantes cada vez que tomaba algún callejón lateral alrededor de Kirkwall, y le dio un ovillo de cordel cuando se mudó por primera vez a la ciudad para que pudiera encontrar su camino. alrededor.
+- Isabela la llama "Gatita" y le cuenta varias cosas sobre ser "una dama" (consejos de seducción, cómo pavonearse, etc.) además de ayudarla con temas que no conoce, debido a sus diferencias culturales con los humanos. Si un Hawke masculino entabla una relación con Merrill, Isabela amenazará con "cortarle las pelotas" si él la lastima.
+- En algunas conversaciones de Carver/Merrill y Carver/Isabela, se insinúa que Carver puede estar enamorado de Merrill.
+- Mike Laidlaw dijo en PAX East 2013 que Merrill arreglar el espejo fue una "mala decisión", pero no dio más detalles en el contexto del por qué.
+- El vallaslin de Merrill es único en Dragon Age II , aunque es similar al que tiene en Origins . Honra a Mythal .
+- Merrill menciona haberse caído al puerto cuando hablas con ella en los muelles. Al parecer, el puerto de Kirkwall es muy profundo.
+- La pila examinable de cartas y notas en la biblioteca de Hawke Mansion tendrá un texto actualizado para el que menciona a Merrill regando las plantas para adaptarse mejor al estado de ánimo entre ella y Hawke, si están en un romance.
+- Merrill siempre ha querido tener un grifo bebé como mascota. Ella dice que lo llamaría Plumas.
+- Sin contar a Sebastian, que sólo está disponible a través de DLC, Merrill es el único interés amoroso en Dragon Age II que lleva su nombre de nacimiento.
+- Merrill es actualmente el individuo más joven conocido en entrar en su magia, a los 4 años.
+- En el libro de cocina oficial , "Sopa de sangre de Merrill" es la receta de una rica sopa con un nombre engañoso. Está elaborado con remolacha y cubierto con garbanzos tostados. Debe su nombre a su color rojo brillante, que a su vez deriva de la remolacha. Al igual que Merrill y su magia de sangre, Devon aconseja al lector que no deje que la impresión que da la sopa lo desanime y que no juzgue un libro por su portada.
+![GitHub](/img/da-logo.png)

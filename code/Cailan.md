@@ -1,0 +1,43 @@
+---
+layout: layout-post.njk
+title: Cailan Theirin
+description: "¡No puedo esperar tal momento de gloria! ¡Los guardas grises lucharán junto al rey de Ferelden para detener la marea negra!"
+tags: ["blog", "libros"]
+---
+
+# {{ "Cailan Theirin" }}
+
+<div>
+  <img src="/img/King.webp" width="200" height="auto"/ alt="Eleventy">
+</div>
+
+Es el rey de Ferelden al comienzo de Origins
+
+#### Trasfondo
+
+El Rey Cailan Theirin es hijo del Rey Maric Theirin y descendiente del legendario Rey Calenhad, que unificó Ferelden siglos antes de su mandato. Es sobrino del Arl Eamon y el Bann Teagan Guerrin, yerno del Teryn Loghain Mac Tir de Gwaren y esposo de la Reina Anora Mac Tir. Tiene un medio hermano, Alistair, guarda gris. Cailan fue el primer rey fereldeno en nacer en una tierra libre del dominio orlesiano en dos generaciones. Asumió el trono a la muerte de su padre y se casó con la hija de Loghain, Anora, dos meses después.
+
+La madre de Cailan, Rowan Guerrin de soltera, tenía un amor por los libros que su hijo heredó. De pequeño le gustaba escuchar cuentos sobre héroes, y tenía predilección por aquellos que relataban cómo su padre logró expulsar a los orlesianos de Ferelden. Rowan murió de una extraña enfermedad cuando él era muy joven, sobre lo que se comenta en el epílogo de "El Trono Usurpado" que Cailan recuerda la enorme tristeza que sintió su padre al perder a su esposa. Cailan creció sin hermanos.
+
+Cailan fue criado por su padre, pero también por el mejor amigo de éste, Loghain Mac Tir. Él lo ayudó a organizar el matrimonio de Cailan y Anora, su hija, cuando ambos eran aún niños. Aquella unión se planteaba desde un punto de vista político: el matrimonio de los hijos de los héroes que habían liberado Ferelden de Orlais uniría la nación más que nunca. Sin embargo, la amistad que compartían Anora y Cailan se convirtió en amor con el paso del tiempo (aunque el rey no le fuera siempre fiel a su esposa) y Cailan estaba feliz de tener a Anora para encargarse de los aspectos burocráticos, administrativos y económicos del reino.
+
+#### Batalla de Ostagar
+
+En lugar de estar preocupado por el creciente número de engendros tenebrosos que aparecían en la superficie, Cailan vio la Batalla de Ostagar como una oportunidad convertirse en una leyenda, tal como lo hicieron sus antepasados, luchando contra la Ruina junto a los míticos Guardas Grises. Cailan era un hombre orgulloso, optimista, y que sentía una profunda admiración por los Guardas Grises, cuya orden había vuelto a Ferelden gracias a su padre, Maric. Decidido a conquistar la victoria, Cailan pidió ayuda a Guardas Grises orlesianos. Esto le valió confrontaciones con Loghain, quien se negaba a dejar entrar a orlesianos en Ferelden cuando hacía tan solo treinta años que los habían expulsado de allí. Su afán por llevar a cabo una hazaña en la batalla lo llevó a luchar en primera línea, a pesar de las recomendaciones de sus consejeros. Cuando Loghain retiró a sus tropas del campo de batalla, Cailan y los guardas que lo acompañaban, incluyendo a los Guardas Grises, se vieron rápidamente abrumados por los engendros tenebrosos. Poco después, Cailan murió a manos de un ogro.
+
+#### Regreso de Ostagar
+
+El/La Guarda encuentra a Cailan Theirin subido a una estructura de madera construida por los engendros tenebrosos, en la que el difunto rey de Ferelden está como crucificado en el puente que cruzaron el/la Guarda y Alistair, el medio hermano de Cailan, para llegar a la Torre de Ishal. Su cuerpo presenta muchas heridas y rasguños, se puede ver su piel, ya que no lleva puesta la armadura, ensangrentada. Cuando se encuentra todo el equipo de Maric, esparcido a lo largo de las ruinas de Ostagar, el/la Guarda puede volver hacia donde está el cuerpo de Maric y decidir qué hacer con él. Las opciones son construir una modesta pira funeraria, bajarlo de la estructura para dárselo a los lobos, o dejarlo ahí a merced de los engendros tenebrosos y las inclemencias del tiempo.
+
+#### Curiosidades
+
+- Cailan fue escrito por David Gaider
+- Cailan es un nombre celta que significa "niño", que juega en el tema del joven rey ser considerado ingenuo o estúpido.
+- Cailan tiene el mismo peinado que Zevran Arainai.
+- Cuando Alistair revela en Risco Rojo que es medio hermano de Cailan, las similitudes físicas entre ambos se hacen obvias. Cailan se parece un poco más a su padre, pero él y Alistair tienen personalidades similares: son considerados infantiles e incluso estúpidos a veces, a pesar de los títulos que posean, y también comparten optimismo y fascinación por los guardas grises. Una diferencia importante entre los dos es que Alistair, a diferencia de su hermano, se siente repelido por la idea de ser rey y la responsabilidad que ello conlleva, mientras que Cailan parece disfrutar de su cargo. Alistair expresa su irritación por la excesiva preocupación de Cailan por convertirse en leyenda y cubrirse de gloria cuando debería haber sido más cauto en la Batalla de Ostagar.
+- Una conversación con Elric Maraigne, confidente de Cailan, al principio del DLC "Retorno a Ostagar", revela que Cailan sabía que la batalla estaba perdida. Esto choca frontalmente con la actitud que mostró durante la Batalla de Ostagar, confiada y despreocupada, aunque quizá mantuvo esa fachada para no afectar a la moral del ejército.
+- La Espada magna Cailan lleva tiene el mismo modelo que Yusaris.
+- David Gaider confirmó en una entrevista que Cailan tenía intención de dejar a Anora Mac Tir, por la Emperatriz Celene de Orlais debido a la supuesta infertilidad de su esposa. Esto quedó eliminado de la trama en un primer momento, y se le hace referencia en el DLC "Retorno a Ostagar" con los tres códices encontrados por el mapa y los comentarios del compañero secreto al respecto.
+- Theirin se pronuncia igual que Therin, como en Lews Therin Telamón: The Dragon, un personaje de la Rueda del Tiempo Series por el difunto Robert Jordan. Este es uno de los muchos nombres compartidos con la serie.
+
+![GitHub](/img/da-logo.png)
