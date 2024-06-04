@@ -1,4 +1,4 @@
-[Mi page](https://rjddd.github.io/YUGIOHWIKI/)
+[Mi page](https://copycat339.github.io/Dragon-Age-Wiki/)
 # _Starter Project_ _11ty_ + _GitHub Pages_.
 
 ## Instrucciones
