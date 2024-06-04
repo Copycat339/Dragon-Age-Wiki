@@ -11,10 +11,9 @@
     "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/Dragon-Age-Wiki/"
   },
   "keywords": [
-    "Yugioh",
-    "Wiki",
-    "Arquetipos",
-    "Cartas Coleccionables"
+    "11ty",
+    "Github Pages",
+    "eleventy"
   ],
   "author": "Hector Constantino <cdmx2695@amerike.edu.mx>",
   "license": "MIT",

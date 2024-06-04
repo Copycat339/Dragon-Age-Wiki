@@ -1,1 +1,1 @@
-console.log("Yu-gi-oh Wiki");
+console.log("Dragon Age Wiki");
