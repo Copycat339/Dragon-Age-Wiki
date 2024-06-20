@@ -10,34 +10,13 @@
 </head>
 <body>
   {% include "header.njk" %}
-  <main>
-    {{ content | safe }}
-  </main>
-  <hr>
-  <aside>
-    <h2>Personajes</h2>
-    
-    <ul>
-      {% for article in collections.libros %}
-        <li>
-          <a href="{{article.url}}">
-            {{ article.data.title }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-    
-    <ul>
-      {% for article in collections.peliculas %}
-        <li>
-          <a href="{{article.url}}">
-            {{ article.data.title }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </aside>
+  <div class="content-container">
+    <main>
+      {{ content | safe }}
+    </main>
+  </div>
   {% include "footer.njk" %}
   <script src="/js/main.js" type="module"></script>
+  
 </body>
 </html>
