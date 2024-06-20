@@ -10,11 +10,9 @@
 </head>
 <body>
   {% include "header.njk" %}
-  <div class="content-container">
-    <main>
-      {{ content | safe }}
-    </main>
-  </div>
+  <main>
+    {{ content | safe }}
+  </main>
   {% include "footer.njk" %}
   <script src="/js/main.js" type="module"></script>
 </body>
